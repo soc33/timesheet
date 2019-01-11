@@ -1,17 +1,30 @@
 body {
-    background-color: bisque;
+    background-color: #5e91fe;
 }
 
 .card {
   margin: 10px;
+  border: none;
+  border-radius: 3px;
+}
+
+.card-header {
+    background-color: #ffddc9;
+    color: #cb4f0e;
+    font-weight: bolder;
 }
 
 .jumbotron{
-    background-color: black;
-    color: white;
+    background-color: #cb4f0e;
+    color: #ffddc9;
     margin: 15px;
 }
 
 h3 {
     font-size: 14px;
+}
+
+.btn {
+    background: #3bb901;
+    border: none;
 }
