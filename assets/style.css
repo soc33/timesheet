@@ -9,5 +9,9 @@ body {
 .jumbotron{
     background-color: black;
     color: white;
+    margin: 15px;
+}
 
+h3 {
+    font-size: 14px;
 }
