@@ -1,3 +1,13 @@
 body {
     background-color: bisque;
 }
+
+.card {
+  margin: 10px;
+}
+
+.jumbotron{
+    background-color: black;
+    color: white;
+
+}
